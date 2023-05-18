@@ -1,6 +1,6 @@
 ## 반갑습니다 👋
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312atjbgzncvlc5ngd54ehgbwgby&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=047500&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=312atjbgzncvlc5ngd54ehgbwgby&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312atjbgzncvlc5ngd54ehgbwgby&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=047500&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=312atjbgzncvlc5ngd54ehgbwgby&redirect=true)
 
 <!--
 **hxunpkk/hxunpkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
